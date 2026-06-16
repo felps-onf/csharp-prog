@@ -1,4 +1,4 @@
-string [] vowels = new string [] {"a", "e", "i", "o", "u"};
+string [] vowels = ["a", "e", "i", "o", "u"];
 int count = 0;
 string word = "hello world";
 foreach (char letter in word)

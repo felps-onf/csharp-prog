@@ -9,3 +9,4 @@ Console.WriteLine("Enter the height of the rectangle:");
 double height = Convert.ToDouble(Console.ReadLine());
 double area = RetangleArea(width, height);
 Console.WriteLine($"The area of the rectangle is: {area}");
+// teste config git
